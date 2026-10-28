@@ -1,10 +1,10 @@
-# CoreStratum Crypto Wiki
+# Crypto Assets Handbook
 
-A self-hosted, GitHub Pages–based technical reference wiki on cryptocurrencies, blockchains, and decentralized finance. Built with **Jekyll + Just the Docs**.
+A self-hosted, GitHub Pages–based technical reference handbook on crypto assets, blockchains, and decentralized finance. Built with **Jekyll + Just the Docs**.
 
 ## Structure
 
-The wiki is organized into three classes:
+The handbook is organized into three classes:
 
 - **Theory** — concepts and mathematics (blockchain fundamentals, consensus, cryptography, wallets/keys, history, regulation).
 - **Tools** — an encyclopedia of node software, wallets, explorers, DeFi instruments, and developer tooling.
@@ -36,7 +36,7 @@ bundle exec jekyll serve --source docs --destination docs/_site \
   --config docs/_config.yml,docs/_config_local.yml
 ```
 
-Then open `http://127.0.0.1:4000/CryptoWiki/`.
+Then open `http://127.0.0.1:4000/CryptoAssetsHandbook/`.
 
 ## Publishing
 

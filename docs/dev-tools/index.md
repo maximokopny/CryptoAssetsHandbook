@@ -8,7 +8,7 @@ has_children: true
 
 # Developer tools
 
-Tooling for building, testing, and deploying smart contracts and dApps: contract frameworks, client libraries, node APIs, and indexers. This is the engineering heart of the wiki for developers.
+Tooling for building, testing, and deploying smart contracts and dApps: contract frameworks, client libraries, node APIs, and indexers. This is the engineering heart of the handbook for developers.
 
 ## Domains
 

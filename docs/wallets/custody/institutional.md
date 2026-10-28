@@ -29,4 +29,4 @@ grand_parent: Tools
 
 ## Key trade-off
 
-Institutional custody reduces operational risk and provides compliance, but still entails counterparty trust. It contrasts with fully self-custodied setups favored by the non-custodial philosophy elsewhere in this wiki.
+Institutional custody reduces operational risk and provides compliance, but still entails counterparty trust. It contrasts with fully self-custodied setups favored by the non-custodial philosophy elsewhere in this handbook.

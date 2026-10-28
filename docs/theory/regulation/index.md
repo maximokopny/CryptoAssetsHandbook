@@ -27,4 +27,4 @@ Regulation is the set of laws and rules applied to cryptocurrency activity. This
 - Node operators and open-source maintainers usually do not act as financial intermediaries, but **anyone operating a business with crypto must analyze local rules**.
 - The regulatory treatment of an asset determines its tax regime and transfer restrictions — relevant to on-chain engineers building products.
 
-> **Note:** This page is informational. For obligations in a specific jurisdiction, consult a qualified legal professional. This wiki is a technical reference and provides no legal advice.
+> **Note:** This page is informational. For obligations in a specific jurisdiction, consult a qualified legal professional. This handbook is a technical reference and provides no legal advice.

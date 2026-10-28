@@ -1,8 +1,8 @@
 remote_theme: just-the-docs/just-the-docs@v0.8.2
-title: CoreStratum Crypto Wiki
-description: A technical reference wiki on cryptocurrencies, blockchains, and decentralized finance for developers and engineers.
-url: "https://ObservantJaguar.github.io"
-baseurl: "/CryptoWiki"
+title: Crypto Assets Handbook
+description: A technical reference handbook on crypto assets, blockchains, and decentralized finance for developers and engineers.
+url: "https://maximokopny.github.io"
+baseurl: "/CryptoAssetsHandbook"
 permalink: pretty
 color_scheme: light
 nav_sort: case_insensitive

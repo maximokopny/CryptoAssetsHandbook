@@ -4,11 +4,11 @@ title: Home
 permalink: /
 ---
 
-# CoreStratum Crypto Wiki
+# Crypto Assets Handbook
 
-A technical reference wiki on cryptocurrencies, blockchains, and **decentralized finance (DeFi)** — built for developers, engineers, and technical specialists. As a reference of technologies, not an investment guide, this wiki deliberately avoids price forecasts, trading advice, and "promising coin" ratings.
+A technical reference handbook on crypto assets, blockchains, and **decentralized finance (DeFi)** — built for developers, engineers, and technical specialists. As a reference of technologies, not an investment guide, this handbook deliberately avoids price forecasts, trading advice, and "promising coin" ratings.
 
-The wiki is organized into three complementary classes:
+The handbook is organized into three complementary classes:
 
 - **[Theory](sections/theory/)** — the concepts and mathematics behind blockchains: blocks, hashing, consensus, cryptography, wallets, and history.
 - **[Tools](sections/tools/)** — an encyclopedia of protocols, node software, wallets, explorers, DeFi instruments, and developer tooling, each with its own page.
